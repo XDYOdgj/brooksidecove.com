@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://brooksidecove.com/sitemap.xml
